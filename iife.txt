@@ -1,0 +1,11 @@
+Requirements:
+1) Save this file using your first and last name in this format: joshuar.txt.
+2) Replace the alert in the JavaScript IIFE below.
+3) Turn in the renamed and updated file.
+
+// Replace the alert message in the JavaScript IIFE here:
+(
+function () {
+   alert("hi");
+}
+)();
